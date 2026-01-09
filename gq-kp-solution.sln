@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gq-kp-client", "gq-kp-client\gq-kp-client.csproj", "{B506739D-1EF3-4450-9C07-A7D5FC5A7965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gq-kp-api", "gq-kp-api\gq-kp-api.csproj", "{4E37178F-9C35-41CB-969D-B6B74DB79003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B506739D-1EF3-4450-9C07-A7D5FC5A7965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B506739D-1EF3-4450-9C07-A7D5FC5A7965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B506739D-1EF3-4450-9C07-A7D5FC5A7965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B506739D-1EF3-4450-9C07-A7D5FC5A7965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E37178F-9C35-41CB-969D-B6B74DB79003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E37178F-9C35-41CB-969D-B6B74DB79003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E37178F-9C35-41CB-969D-B6B74DB79003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E37178F-9C35-41CB-969D-B6B74DB79003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B8D6E3-83F4-43FE-B7A7-B6F2DFF90452}
+	EndGlobalSection
+EndGlobal

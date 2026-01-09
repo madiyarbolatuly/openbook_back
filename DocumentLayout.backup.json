@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E37178F-9C35-41CB-969D-B6B74DB79003}|gq-kp-api\\gq-kp-api.csproj|c:\\projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E37178F-9C35-41CB-969D-B6B74DB79003}|gq-kp-api\\gq-kp-api.csproj|solutionrelative:gq-kp-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|c:\\projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\importform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|solutionrelative:gq-kp-client\\importform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|c:\\projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\helpers\\importhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|solutionrelative:gq-kp-client\\helpers\\importhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\importform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|solutionrelative:gq-kp-client\\importform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|c:\\projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\helpers\\httphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|solutionrelative:gq-kp-client\\helpers\\httphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|c:\\projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\gq-kp-client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|solutionrelative:gq-kp-client\\gq-kp-client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|c:\\projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|solutionrelative:gq-kp-client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B506739D-1EF3-4450-9C07-A7D5FC5A7965}|gq-kp-client\\gq-kp-client.csproj|solutionrelative:gq-kp-client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E37178F-9C35-41CB-969D-B6B74DB79003}|gq-kp-api\\gq-kp-api.csproj|c:\\projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E37178F-9C35-41CB-969D-B6B74DB79003}|gq-kp-api\\gq-kp-api.csproj|solutionrelative:gq-kp-api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-api\\appsettings.json",
+              "RelativeDocumentMoniker": "gq-kp-api\\appsettings.json",
+              "ToolTip": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-api\\appsettings.json",
+              "RelativeToolTip": "gq-kp-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-19T04:59:08.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportHelper.cs",
+              "DocumentMoniker": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\Helpers\\ImportHelper.cs",
+              "RelativeDocumentMoniker": "gq-kp-client\\Helpers\\ImportHelper.cs",
+              "ToolTip": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\Helpers\\ImportHelper.cs",
+              "RelativeToolTip": "gq-kp-client\\Helpers\\ImportHelper.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:12:30.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\ImportForm.cs",
+              "RelativeDocumentMoniker": "gq-kp-client\\ImportForm.cs",
+              "ToolTip": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\ImportForm.cs [Design]",
+              "RelativeToolTip": "gq-kp-client\\ImportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:09:19.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpHelper.cs",
+              "DocumentMoniker": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\Helpers\\HttpHelper.cs",
+              "RelativeDocumentMoniker": "gq-kp-client\\Helpers\\HttpHelper.cs",
+              "ToolTip": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\Helpers\\HttpHelper.cs",
+              "RelativeToolTip": "gq-kp-client\\Helpers\\HttpHelper.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:45:59.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gq-kp-client",
+              "DocumentMoniker": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\gq-kp-client.csproj",
+              "RelativeDocumentMoniker": "gq-kp-client\\gq-kp-client.csproj",
+              "ToolTip": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\gq-kp-client.csproj",
+              "RelativeToolTip": "gq-kp-client\\gq-kp-client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T10:45:49.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportForm.cs",
+              "DocumentMoniker": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\ImportForm.cs",
+              "RelativeDocumentMoniker": "gq-kp-client\\ImportForm.cs",
+              "ToolTip": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\ImportForm.cs",
+              "RelativeToolTip": "gq-kp-client\\ImportForm.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAywGAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:45:29.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\Program.cs",
+              "RelativeDocumentMoniker": "gq-kp-client\\Program.cs",
+              "ToolTip": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\Program.cs",
+              "RelativeToolTip": "gq-kp-client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:45:23.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\MainForm.cs",
+              "RelativeDocumentMoniker": "gq-kp-client\\MainForm.cs",
+              "ToolTip": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-client\\MainForm.cs [Design]",
+              "RelativeToolTip": "gq-kp-client\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:44:55.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "gq-kp-api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Projects\\github\\gq_openbook\\gq-kp-solution\\gq-kp-api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "gq-kp-api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:21:59.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
